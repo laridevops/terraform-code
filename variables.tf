@@ -7,7 +7,7 @@ variable "profile" {
   default = "default"
 }
 variable "topic_name" {
-  default = "sns-dev"
+  default = "sns-qa"
 }
 variable "Team" {
   default = "dev"

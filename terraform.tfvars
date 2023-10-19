@@ -1,6 +1,6 @@
 my_region     = "us-east-1a"
 profile       = "default"
-topic_name    = "sns-dev"
+topic_name    = "sns-qa"
 end_point     = "unixclassd1@gmail.com"
 protocol_type = "email"
 Team          = "Dev"
